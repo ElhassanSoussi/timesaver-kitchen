@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Clip‑on Silicone Strainer",
+    "slug": "clip-on-silicone-strainer",
+    "price": 14.99,
+    "images": [
+      "https://example.com/strainer1.jpg"
+    ],
+    "tags": ["viral", "space-saving", "meal-prep"],
+    "supplierLinks": {
+      "cj": "https://cjdropshipping.com/strainer123",
+      "aliexpress": "https://www.aliexpress.com/item/40001234.html"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Vegetable Chopper/Dicer",
+    "slug": "vegetable-chopper",
+    "price": 19.95,
+    "images": [
+      "https://example.com/chopper1.jpg"
+    ],
+    "tags": ["viral", "meal-prep"],
+    "supplierLinks": {
+      "cj": "https://cjdropshipping.com/chopper456",
+      "aliexpress": "https://www.aliexpress.com/item/40005678.html"
+    }
+  }
+]
